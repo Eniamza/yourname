@@ -1,9 +1,12 @@
+
+
 .baloo2 {
   
         font-family: 'Baloo 2', cursive;
         
 }
 
+/*Navbar CSS Starts*/
 
 .navbar {
     min-height: 70px;
@@ -33,4 +36,20 @@
     transform: translatex(-50%);
     font-size: 2.3em;
     color: aqua;
+}
+
+/*Navbar CSS Starts*/
+
+.light-dark {
+
+    background-color: rgb(55, 54, 55);
+    color: whitesmoke;
+}
+
+.pre-desc h2{
+
+font-size: 35px;
+text-align: center;
+padding: 10px;
+
 }
