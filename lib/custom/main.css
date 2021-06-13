@@ -33,7 +33,7 @@
     color: aqua;
 }
 
-/*Navbar CSS Starts*/
+/*Navbar CSS Ends*/
 
 .light-dark {
 
@@ -48,4 +48,14 @@ text-align: center;
 padding: 10px;
 color: yellow;
 
+}
+
+.text-responsive {
+    font-size: calc(100% + 1vw + 1vh);
+  }
+  
+.submit-btn {
+
+    margin:auto;
+     display:block;
 }
