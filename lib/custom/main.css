@@ -66,3 +66,23 @@ body {
    color: whitesmoke;
 
 }
+
+br {
+    display: block; /* makes it have a width */
+    content: ""; /* clears default height */
+    margin-top: 8px; /* change this to whatever height you want it */
+}
+
+table {
+
+    text-align: center;
+   
+}
+
+.processor {
+
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
